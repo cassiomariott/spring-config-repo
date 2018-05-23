@@ -1,4 +1,5 @@
 spring:
+  profiles: 25284481000135
   data:
     mongodb:
       uri: mongodb://localhost/cliente     
